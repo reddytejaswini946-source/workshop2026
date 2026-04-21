@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a=30;
-    cout<<"the value of a is"<<a<<endl;
+    int num=30;
+    cout<<"the value of a is"<<num<<endl;
     return 0;
 }
 
